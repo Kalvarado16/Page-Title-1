@@ -1,0 +1,33 @@
+body{
+       text-align:center;
+     width: 500px;
+        text-align:center;
+        
+}
+#button{ 
+            border-radius: 500px;
+             width:228px;
+             display: inline;
+             padding:15px;
+             background-color: #d3aee2;
+}
+#button2{ border-radius: 500px;
+             width:228px;
+             display: inline;
+             padding:15px;
+             background-color: #d3aee2;}
+
+#Aurora2{
+         width:504px;
+         display:none;
+       
+}
+p{ 
+    font-family:'Cinzel', serif;
+}
+.hidden{
+         color:white;
+}
+.bella{
+    display:none;
+}
